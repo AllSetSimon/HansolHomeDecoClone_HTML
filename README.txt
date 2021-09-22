@@ -1,0 +1,1 @@
+Fontawesome 파일의 압축을 해제한 후 html파일을 실행해 주세요
